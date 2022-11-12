@@ -42,7 +42,3 @@ We have considered MFCC with “tuned parameters” as the primary feature and d
 # Credits:
 >> Abhijeet Kumar, Spoken Speaker Identification,MachineLearninginAction, Appliedmachinelearning.
 
-# Disclaimer:
-Any discripency or violation of copyright issues is just a mistake. Big Apologies for that. In such case please contact to me; I will remove that one. In case you copy any content of this repository, You are expected to mention its owner's ( MY) name with little description. 
-
->> To explore the project in detail and find its hidden finctionalities , run and explore it by yourself.
